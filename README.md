@@ -1,5 +1,5 @@
-# EmKodZ
+# EmKodZ - Landing
 
-![Screenshot](screenshot.png)
+![Screenshot](screen.jpg)
 
 🔗 [Deployed site]()
