@@ -1,5 +1,5 @@
 # EmKodZ - Landing
 
-![Screenshot](screen.jpg)
+![Screenshot](screen.png)
 
-🔗 [Deployed site]()
+🔗 [Deployed site](https://em-kodz-landing.vercel.app/)
